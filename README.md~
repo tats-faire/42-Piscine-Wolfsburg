@@ -1,0 +1,16 @@
+# 42-Piscine-Wolfsburg
+
+Everything survived the tests except for the following exercises:
+C02, ex11
+C03, ex05
+C04, ex04 & ex05
+Sh00, ex08
+I revised them all, but I cannot guarantee that all errors are purged.
+had an error that should be fixed now (but no guarantee).
+
+As for the Rushes:
+Rush00: 92 points - had one error that is now fixed (printed newline if input is 0).
+Rush01: 0 points. Repo only consists of a function that will test for valid input.
+Rush02: 125 points. Bonus points were for the library for Esperanto, an artificial language created in 1887 and still in use today.
+
+Here you can find the corresponding subjects: https://github.com/marousta/42-C-Piscine-subjects/tree/master/EN
