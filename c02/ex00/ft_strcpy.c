@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strcpy.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: thetzel <thetzel@student.42.fr>            +#+  +:+       +#+        */
+/*   By: thetzel <thetzel@student.42wolfsburg.de>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/22 17:33:09 by thetzel           #+#    #+#             */
 /*   Updated: 2022/11/28 22:49:58 by thetzel          ###   ########.fr       */

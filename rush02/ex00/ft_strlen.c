@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strlen.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ibellash <ibellash@student.42wolfsburg.    +#+  +:+       +#+        */
+/*   By: ibellash <ibellash@student.42wolfsburg.de> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/26 19:02:45 by awilliam          #+#    #+#             */
 /*   Updated: 2022/11/27 10:24:35 by ibellash         ###   ########.fr       */

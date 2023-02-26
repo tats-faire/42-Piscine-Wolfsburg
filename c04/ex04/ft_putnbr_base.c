@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putnbr_base.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: thetzel <thetzel@student.42wolfsburg.de    +#+  +:+       +#+        */
+/*   By: thetzel <thetzel@student.42wolfsburg.de>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/30 18:02:18 by thetzel           #+#    #+#             */
 /*   Updated: 2023/02/25 16:56:34 by thetzel          ###   ########.fr       */

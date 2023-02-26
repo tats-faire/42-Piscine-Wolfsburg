@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_atoi_base.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: thetzel <thetzel@student.42wolfsburg.de    +#+  +:+       +#+        */
+/*   By: thetzel <thetzel@student.42wolfsburg.de>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/01 15:05:08 by thetzel           #+#    #+#             */
 /*   Updated: 2023/02/25 17:04:58 by thetzel          ###   ########.fr       */

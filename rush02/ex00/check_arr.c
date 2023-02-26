@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   check_arr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: awilliam <awilliam@student.42wolfsburg.    +#+  +:+       +#+        */
+/*   By: awilliam <awilliam@student.42wolfsburg.de> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/27 16:32:33 by awilliam          #+#    #+#             */
 /*   Updated: 2022/11/27 16:37:04 by awilliam         ###   ########.fr       */

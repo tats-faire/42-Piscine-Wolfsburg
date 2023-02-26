@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   print_arr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: awilliam <awilliam@student.42wolfsburg.    +#+  +:+       +#+        */
+/*   By: awilliam <awilliam@student.42wolfsburg.de> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/27 16:26:19 by awilliam          #+#    #+#             */
 /*   Updated: 2022/11/27 18:50:18 by awilliam         ###   ########.fr       */

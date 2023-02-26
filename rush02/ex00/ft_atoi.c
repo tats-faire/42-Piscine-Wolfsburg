@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_atoi.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: awilliam <awilliam@student.42wolfsburg.    +#+  +:+       +#+        */
+/*   By: awilliam <awilliam@student.42wolfsburg.de> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/26 21:27:32 by ibellash          #+#    #+#             */
 /*   Updated: 2022/11/27 19:35:09 by awilliam         ###   ########.fr       */

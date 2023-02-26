@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   make_str.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: thetzel <thetzel@student.42.fr>            +#+  +:+       +#+        */
+/*   By: thetzel <thetzel@student.42wolfsburg.de>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/27 16:27:44 by awilliam          #+#    #+#             */
 /*   Updated: 2022/11/27 19:56:44 by thetzel          ###   ########.fr       */

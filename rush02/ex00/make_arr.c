@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   make_arr.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: thetzel <thetzel@student.42.fr>            +#+  +:+       +#+        */
+/*   By: thetzel <thetzel@student.42wolfsburg.de>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/26 19:02:41 by awilliam          #+#    #+#             */
 /*   Updated: 2022/11/27 19:02:52 by thetzel          ###   ########.fr       */

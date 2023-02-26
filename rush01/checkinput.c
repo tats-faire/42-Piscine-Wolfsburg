@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   checkinput.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: thetzel <thetzel@student.42.fr>            +#+  +:+       +#+        */
+/*   By: thetzel <thetzel@student.42wolfsburg.de>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/18 22:58:45 by thetzel           #+#    #+#             */
 /*   Updated: 2022/11/20 23:46:20 by thetzel          ###   ########.fr       */

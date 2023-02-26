@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_ft.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: thetzel <thetzel@student.42.fr>            +#+  +:+       +#+        */
+/*   By: thetzel <thetzel@student.42wolfsburg.de>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/19 17:55:13 by thetzel           #+#    #+#             */
 /*   Updated: 2022/11/20 16:34:06 by thetzel          ###   ########.fr       */

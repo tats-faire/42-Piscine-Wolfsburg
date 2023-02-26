@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   main.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: awilliam <awilliam@student.42wolfsburg.    +#+  +:+       +#+        */
+/*   By: awilliam <awilliam@student.42wolfsburg.de> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/26 13:39:14 by awilliam          #+#    #+#             */
 /*   Updated: 2022/11/27 23:12:21 by awilliam         ###   ########.fr       */

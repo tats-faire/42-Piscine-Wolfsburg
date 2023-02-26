@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strstr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: awilliam <awilliam@student.42wolfsburg.    +#+  +:+       +#+        */
+/*   By: awilliam <awilliam@student.42wolfsburg.de> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/14 16:29:30 by awilliam          #+#    #+#             */
 /*   Updated: 2022/11/27 23:00:02 by awilliam         ###   ########.fr       */
