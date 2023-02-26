@@ -6,7 +6,6 @@ C03, ex05
 C04, ex04 & ex05
 Sh00, ex08
 I revised them all, but I cannot guarantee that all errors are purged.
-had an error that should be fixed now (but no guarantee).
 
 As for the Rushes:
 Rush00: 92 points - had one error that is now fixed (printed newline if input is 0).
